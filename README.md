@@ -1,4 +1,9 @@
 # New-York-City-Taxi-Trip-Duration-Prediction
+![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/0fdf71af-968a-4db7-9ec5-b02868144c6d)
+![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/6e6a0858-999e-4620-8382-ed5a1e0ee745)
+![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/6bc5fcc6-1fd2-4bc1-835f-91638247716b)
+![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/d1934bd4-aff6-46d9-8dd6-993e01f34052)
+![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/3dc282f9-1bbb-4758-a14a-437b4128573e)
 ![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/41d46e45-1ded-4b10-a848-fe200be1b994)
 
 A machine learning case study , which predicts the trip duration needed for New York city taxis.

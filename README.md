@@ -19,4 +19,21 @@ Since this is a regression problem, we consider metrics that take into account c
     - Linear Regression Model
     - Gradient Boosting
     - Random Forest
-    
+## Refer my ipython file for all the above model implementations and precdictions post Data Cleansing and EDA.
+## Conclusion
+Gradient Boosting model(GBM) with hyperparameter tuning's has got best result for our dataeset.
+## Summary
+The following topics were covered in this tutorial:
+
+Downloading a real-world dataset from a Kaggle competition.
+Performing data cleansing and prepare the dataset for training.
+Training and interpreting a Linear Regression model using LinearRegressor.
+Training and interpreting a gradient boosting model using XGBoost.
+Training and interpreting a Random Forest model using RandomForest
+Configuring the gradient boosting model and tuning hyperparamters.
+Comparing the model with other types of models like linear Regression and Random Forest.
+Predicting on Testset.
+Saving the model as a .joblib file.
+## Future Work
+-I used Linear Regression , GBM & Random Forest , future work may include trying the predictions with other models such as Decision Tress, K-Fold and so on..
+-Learning & implementing the speedup mechanisms to increase the time taken to run the models with predictions.

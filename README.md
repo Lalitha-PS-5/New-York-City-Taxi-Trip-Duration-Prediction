@@ -1,4 +1,6 @@
 # New-York-City-Taxi-Trip-Duration-Prediction
+![image](https://github.com/Lalitha-PS-5/New-York-City-Taxi-Trip-Duration-Prediction/assets/113533079/41d46e45-1ded-4b10-a848-fe200be1b994)
+
 A machine learning case study , which predicts the trip duration needed for New York city taxis.
 The challenge here is to build a model that predicts the total ride duration of taxi trips in New York City.
 ## Introduction

@@ -19,7 +19,7 @@ Since this is a regression problem, we consider metrics that take into account c
     * Linear Regression Model
     * Gradient Boosting
     * Random Forest
-####  Refer my ipython file for all the above model implementations and precdictions post Data Cleansing and EDA.
+####  Refer my ipython file for all the above model implementations and predictions post Data Cleansing and EDA.
 ## Conclusion
 Gradient Boosting model(GBM) with hyperparameter tuning's has got best result for our dataeset.
 ## Summary
